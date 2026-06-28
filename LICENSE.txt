@@ -1,0 +1,94 @@
+PatchWalker - End User License Agreement (EULA)
+
+Copyright (C) 2026 Jermaine Walkes. All rights reserved.
+
+IMPORTANT - READ CAREFULLY. This End User License Agreement ("Agreement") is a
+legal agreement between you (an individual or a single organisation, "you") and
+Jermaine Walkes ("the Author") for the PatchWalker software, including the
+compiled application, installer, and any accompanying documentation
+(collectively, the "Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound
+by the terms of this Agreement. If you do not agree, do not install or use the
+Software.
+
+1. LICENCE GRANT
+   The Software is provided free of charge. Subject to your continued compliance
+   with this Agreement, the Author grants you a personal, non-exclusive,
+   non-transferable, worldwide, royalty-free licence to install and use the
+   Software, in its unmodified form, for your own internal purposes (personal or
+   business). No fee is required to use the Software.
+
+2. RESTRICTIONS
+   Except to the extent that applicable law expressly permits despite this
+   Agreement, you must NOT:
+   (a) copy the Software except as necessary to install and run it, or to make a
+       single back-up copy for archival purposes;
+   (b) sell, resell, rent, lease, lend, distribute, sublicense, publish, or
+       otherwise make the Software available to any third party, whether for a
+       fee or free of charge;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) reverse engineer, decompile, or disassemble the Software, or otherwise
+       attempt to derive its source code, except to the limited extent that this
+       restriction cannot be excluded under applicable law (for example, the
+       right to decompile for interoperability under the laws of the United
+       Kingdom or European Union);
+   (e) remove, alter, or obscure any copyright, trademark, or other proprietary
+       notices in or on the Software; or
+   (f) use the "PatchWalker" name, logo, or branding except to identify the
+       unmodified Software.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. The Author retains all right, title, and
+   interest in and to the Software, including all intellectual property rights.
+   This Agreement does not grant you any rights other than those expressly set
+   out above; all rights not expressly granted are reserved by the Author.
+
+4. THIRD-PARTY COMPONENTS
+   The Software may include third-party components that are provided under their
+   own licence terms. Those terms govern your use of the relevant components and,
+   to the extent of any conflict, take precedence over this Agreement for those
+   components only.
+
+5. DONATIONS
+   Use of the Software is free. You may choose to make a voluntary donation to
+   support the Software's development. Donations are entirely optional, are not a
+   purchase or payment for the Software, are non-refundable, and confer no
+   additional rights, warranties, support obligations, or guarantees of any kind.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT
+   LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE AUTHOR DOES NOT
+   WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE. YOU
+   USE THE SOFTWARE AT YOUR OWN RISK.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY
+   DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, BUSINESS, OR GOODWILL, ARISING OUT
+   OF OR RELATING TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES. Nothing in this Agreement excludes or limits the
+   Author's liability for death or personal injury caused by negligence, for
+   fraud, or for any other liability that cannot be excluded or limited under
+   applicable law.
+
+8. TERM AND TERMINATION
+   This Agreement is effective until terminated. It terminates automatically if
+   you breach any of its terms. On termination, you must stop using the Software
+   and remove all copies. Sections 3, 6, 7, and 9 survive termination.
+
+9. GOVERNING LAW
+   This Agreement is governed by the laws of England and Wales, and the courts of
+   England and Wales shall have exclusive jurisdiction over any dispute arising
+   out of or in connection with it, without prejudice to any mandatory consumer
+   protections available to you in your country of residence.
+
+10. ENTIRE AGREEMENT
+   This Agreement constitutes the entire agreement between you and the Author
+   regarding the Software and supersedes any prior understanding. If any
+   provision is held unenforceable, the remaining provisions remain in full
+   force and effect.
+
+Contact: support@patchwalker.com
