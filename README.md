@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><strong>Centralised, agentless patch management for Windows and Linux &mdash; from a single Controller.</strong></p>
+<p align="center"><strong>Centralised, agentless patch management for Windows and Linux.</strong></p>
 
 <p align="center">
   <a href="https://patchwalker.com">Website</a> &middot;
@@ -26,11 +26,23 @@
 
 ## What is PatchWalker?
 
-PatchWalker keeps an entire fleet of Windows and Linux machines patched and compliant from **one Windows Controller** &mdash; with **no agents** to deploy, update or troubleshoot on your endpoints. It manages Windows over WinRM (HTTPS) and Linux over SSH, so you enrol a machine once and manage its operating-system updates, third-party software, schedules, compliance and more from a single web console.
+PatchWalker keeps an entire fleet of Windows and Linux machines patched and compliant from a single **Windows Server** that acts as your **Controller**, with **no agents** to deploy, update or troubleshoot on your endpoints. It manages Windows over WinRM (HTTPS) and Linux over SSH, so you enrol a machine once and manage its operating-system updates, third-party software, schedules, compliance and more from a single web console.
 
 It's **free to use**, runs entirely on your own infrastructure, and sends no telemetry anywhere.
 
 > This repository hosts **release downloads only**. PatchWalker is proprietary freeware; the application source is not published here.
+
+## Screenshots
+
+**Dashboard** &mdash; estate health, pending updates and per-group compliance at a glance:
+
+![PatchWalker dashboard](https://patchwalker.com/img/screenshots/dashboard.png)
+
+**Updates** &mdash; review and install Windows and Linux updates across the estate:
+
+![PatchWalker updates view](https://patchwalker.com/img/screenshots/updates.png)
+
+More screenshots and a full feature tour at **[patchwalker.com/features.html](https://patchwalker.com/features.html)**.
 
 ## Why agentless?
 
@@ -146,8 +158,14 @@ PatchWalker is **proprietary freeware** &mdash; free to use for personal or busi
 
 ## Support &amp; feedback
 
-- Email **support@patchwalker.com**
-- Use **Make a Wish** inside the app to send feature ideas and bug reports
-- If PatchWalker saves you time, you can [support its development on Ko-fi](https://ko-fi.com/patchwalker).
+Found a bug or have an idea? Use **Make a Wish** inside the app — it sends your feedback straight to the developer.
+
+## Support development
+
+PatchWalker is **free**, built and maintained by one person. If it saves you time, a donation keeps it improving and is hugely appreciated:
+
+<p align="center">
+  <a href="https://ko-fi.com/patchwalker"><img src="https://img.shields.io/badge/Support%20PatchWalker-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support PatchWalker on Ko-fi"></a>
+</p>
 
 <p align="center"><sub>&copy; 2026 Jermaine Walkes. PatchWalker is proprietary freeware.</sub></p>
